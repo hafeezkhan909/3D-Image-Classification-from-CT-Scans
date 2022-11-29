@@ -1,1 +1,1 @@
-# 3D-Image-Classification-from-CT-Scans
+# Implementation and Training of Mask R-CNN using Detectron2 Framework
